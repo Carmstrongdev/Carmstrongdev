@@ -15,12 +15,17 @@
 - <b>SQL Database Project</b><br/>
   https://github.com/Carmstrongdev/SQLProject
 
+- <b>PowerShell Automation Projects</b></br>
+  https://github.com/Carmstrongdev/PowerShellScripts
+
+- <b>Open Meridian Project</b></br>
+  https://github.com/Meridian59/Meridian59/pulls?q=is%3Apr+is%3Aclosed+author%3Apkchrischan
 <br/>
 
 <!-- Future Projects -->
 
 - <b>PowerShell Automation Projects</b>
-- <b>Python Projects</b>
+
 - <b>AI Engineering Projects</b>
 - <b>Full Stack Web Applications</b>
 
