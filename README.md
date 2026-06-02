@@ -1,37 +1,57 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/Carmstrongdev">Programmer</a>, <a href="www.linkedin.com/in/christian-armstrong-a822a9207/">AI Engineer</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Christian! <br/>
+<a href="https://github.com/Carmstrongdev">Software Engineer</a>,
+<a href="https://www.linkedin.com/in/christian-armstrong-a822a9207">Systems Administrator</a>,
+<a href="https://www.linkedin.com/in/christian-armstrong-a822a9207">Automation Engineer</a>
+</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Portfolio Website</b><br/>
+  https://github.com/Carmstrongdev/Portfolio-Website
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Linux File Permissions Project</b><br/>
+  https://github.com/Carmstrongdev/FilePermissionsLinuxPractice
 
-- <b>PowerShell</b>
+- <b>SQL Database Project</b><br/>
+  https://github.com/Carmstrongdev/SQLProject
 
-<b>Portfolio Website</b> https://github.com/Carmstrongdev/Portfolio-Website.git
+<br/>
 
-- <b>C# (.NET Desktop Applications)</b>
+<!-- Future Projects -->
 
-- <b>Python</b>
-
+- <b>PowerShell Automation Projects</b>
+- <b>Python Projects</b>
+- <b>AI Engineering Projects</b>
+- <b>Full Stack Web Applications</b>
 
 <h2>📝 Certifications</h2>
-<a href="https://www.coursera.org/account/accomplishments/specialization/072JW4TOCH33">Google Cyber Security</a>
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="" />][youtube]
-[<img align="left" alt="" />][twitter]
-[<img align="left" alt="" />][linkedin]
-[<img align="left" alt="" />][instagram]
+- <a href="https://www.coursera.org/account/accomplishments/verify/4286L30UGBQJ">Meta Front-End Developer Professional Certificate</a>
 
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: www.linkedin.com/in/christian-armstrong-a822a9207
+- <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000689338/udegwxp7h8">Linux Essentials Certification (LPI)</a>
+
+- <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential">CompTIA Security+</a>
+
+- <a href="https://www.linkedin.com/in/christian-armstrong-a822a9207/overlay/Certifications/479651758/treasury/?profileId=ACoAADSL9MIBg8XIblXxfRwalTcpy9paHW5ofgk">ITIL 4 Foundation in IT Service Management</a>
+
+<h2>🤳 Connect with me:</h2>
+
+<a href="https://www.linkedin.com/in/christian-armstrong-a822a9207">
+LinkedIn
+</a>
+
+<br/>
+
+<a href="https://github.com/Carmstrongdev">
+GitHub
+</a>
 
 <!--
-**Carmstrongdev/Carmstrongdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Upcoming Projects
 
-Here are some ideas to get you started:
-
+- PowerShell Enterprise Automation
+- Python Development
+- AI Applications
+- Infrastructure as Code
+- Cloud Engineering
 -->
