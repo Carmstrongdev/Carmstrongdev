@@ -19,7 +19,7 @@
   https://github.com/Carmstrongdev/PowerShellScripts
 
 - <b>Open Meridian Project</b></br>
-  https://github.com/Meridian59/Meridian59/pulls?q=is%3Apr+is%3Aclosed+author%3Apkchrischan
+  [https://github.com/Meridian59/Meridian59/pulls?q=is%3Apr+is%3Aclosed+author%3Apkchrischan](https://github.com/OpenMeridian/Meridian59/pulls?q=author%3APKChrisChan+)
 <br/>
 
 <!-- Future Projects -->
