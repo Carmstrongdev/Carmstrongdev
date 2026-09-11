@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/christian-armstrong-a822a9207">Automation Engineer</a>
 </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - <b>Portfolio Website</b><br/>
   https://github.com/Carmstrongdev/Portfolio-Website
@@ -28,7 +28,7 @@ https://github.com/Carmstrongdev/Automation_with_Python
 - <b>AI Engineering Projects</b>
 - <b>Full Stack Web Applications</b>
 
-<h2>📝 Certifications</h2>
+<h2> Certifications</h2>
 
 - <a href="https://www.coursera.org/account/accomplishments/verify/4286L30UGBQJ">Meta Front-End Developer Professional Certificate</a>
 
@@ -38,7 +38,7 @@ https://github.com/Carmstrongdev/Automation_with_Python
 
 - <a href="https://www.linkedin.com/in/christian-armstrong-a822a9207/overlay/Certifications/479651758/treasury/?profileId=ACoAADSL9MIBg8XIblXxfRwalTcpy9paHW5ofgk">ITIL 4 Foundation in IT Service Management</a>
 
-<h2>🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/christian-armstrong-a822a9207">
 LinkedIn
