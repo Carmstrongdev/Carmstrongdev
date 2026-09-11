@@ -54,7 +54,7 @@ GitHub
 <!--
 Upcoming Projects
 
-- PowerShell Enterprise Automation
+- Python Enterprise Automation
 - Python Development
 - AI Applications
 - Infrastructure as Code
