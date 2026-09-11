@@ -22,10 +22,10 @@
   [https://github.com/Meridian59/Meridian59/pulls?q=is%3Apr+is%3Aclosed+author%3Apkchrischan](https://github.com/OpenMeridian/Meridian59/pulls?q=author%3APKChrisChan+)
 <br/>
 
+- <b>Python Automation Projects</b><br/>
+https://github.com/Carmstrongdev/Automation_with_Python
+
 <!-- Future Projects -->
-
-- <b>Python Automation Projects</b>
-
 - <b>AI Engineering Projects</b>
 - <b>Full Stack Web Applications</b>
 
