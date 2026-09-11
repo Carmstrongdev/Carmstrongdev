@@ -24,7 +24,7 @@
 
 <!-- Future Projects -->
 
-- <b>PowerShell Automation Projects</b>
+- <b>Python Automation Projects</b>
 
 - <b>AI Engineering Projects</b>
 - <b>Full Stack Web Applications</b>
