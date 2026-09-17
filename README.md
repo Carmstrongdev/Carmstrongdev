@@ -24,6 +24,9 @@
 - <b>Python Automation Projects</b><br/>
 https://github.com/Carmstrongdev/Automation_with_Python
 
+- <b>Software Engineering Documentation Practices</b><br/>
+https://github.com/Carmstrongdev/Hangman-Game
+
 <!-- Future Projects -->
 - <b>AI Engineering Projects</b>
 - <b>Full Stack Web Applications</b>
